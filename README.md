@@ -1,2 +1,3 @@
 # SQL-Data-Analytics-Project
-This project contains SQL queries for database exploration, KPI reporting, trend analysis, segmentation, and business reporting.
+This project is based on my SQL Data Warehouse Project. 
+It uses the final Gold Layer (cleaned and integrated data) to generate business insights and KPIs.
